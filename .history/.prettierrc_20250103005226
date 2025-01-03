@@ -1,0 +1,11 @@
+{
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "endOfLine": "lf",
+  "printWidth": 120,
+  "extends": ["plugin:prettier/recommended"],
+  "semi": false,
+  "semi": true, // Точки с запятой обязательны
+  "singleQuote": true, // Одинарные кавычки
+  "tabWidth": 4 // Отступы в 4 пробела
+}
