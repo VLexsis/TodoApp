@@ -37,11 +37,7 @@ export default class App extends Component {
         }
     }
     state = {
-        tasks: [
-            this.createNewTask('Completed task'),
-            this.createNewTask('Editing task'),
-            this.createNewTask('Active task'),
-        ],
+        tasks: [],
         filter: 'all',
     }
 
