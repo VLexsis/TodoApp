@@ -98,7 +98,7 @@ export default class App extends Component {
     }
 
     filter(tasks, filter) {
-        switch(filter) {
+        switch (filter) {
             case 'all':
                 return tasks
             case 'active':

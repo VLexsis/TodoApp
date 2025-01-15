@@ -38,5 +38,5 @@ NewTaskForm.propTypes = {
     onAddTask: PropTypes.func.isRequired,
 }
 NewTaskForm.defaultProps = {
-    onAddTask: () => {}
+    onAddTask: () => {},
 }
