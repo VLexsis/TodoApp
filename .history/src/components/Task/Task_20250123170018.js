@@ -1,0 +1,1 @@
+isActive = false, // Используем isActive
